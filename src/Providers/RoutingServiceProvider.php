@@ -1,5 +1,5 @@
 <?php
-namespace Awonwon\Leadr\Providers;
+namespace Leadr\Providers;
 
 use Awonwon\Leadr\Router;
 use Awonwon\Leadr\UrlGenerator;

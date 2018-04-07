@@ -1,6 +1,6 @@
 <?php
 
-namespace Awonwon\Leadr;
+namespace Leadr;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Container\Container;
