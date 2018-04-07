@@ -1,6 +1,7 @@
 {
     "name": "awonwon/leadr",
     "description": "override a root prefix for all routes and url's generator",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
@@ -8,7 +9,9 @@
             "email": "awonwon.w2@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "illuminate/routing": ">=5.4"
     }
+
 }
