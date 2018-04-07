@@ -1,6 +1,7 @@
 {
     "name": "awonwon/leadr",
     "description": "override a root prefix for all routes and url's generator",
+    "keywords": ["laravel", "l5", "route", "routing", "prefix"],
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -11,7 +12,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/routing": ">=5.4"
+        "illuminate/routing": ">=5.4",
+        "awonwon/leadr": "dev-master"
     },
     "autoload": {
         "psr-4": {
