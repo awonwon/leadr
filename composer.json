@@ -12,6 +12,11 @@
     "minimum-stability": "dev",
     "require": {
         "illuminate/routing": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Awonwon\\Leadr\\": "src/"
+        }
     }
 
 }

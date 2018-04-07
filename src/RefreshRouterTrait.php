@@ -1,6 +1,6 @@
 <?php
 
-namespace Leadr;
+namespace Awonwon\Leadr;
 
 trait RefreshRouterTrait
 {

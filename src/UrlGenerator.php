@@ -1,6 +1,6 @@
 <?php
 
-namespace Leadr;
+namespace Awonwon\Leadr;
 
 use Illuminate\Routing\UrlGenerator as BaseUrlGenerator;
 use Awonwon\Leadr\RouteUrlGenerator;
