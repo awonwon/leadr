@@ -1,0 +1,14 @@
+{
+    "name": "awonwon/leadr",
+    "description": "override a root prefix for all routes and url's generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "awonwon",
+            "email": "awonwon.w2@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/routing": ">=5.4"
+    }
+}
