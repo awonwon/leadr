@@ -10,10 +10,9 @@
             "email": "awonwon.w2@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.1",
     "require": {
-        "illuminate/routing": ">=5.4",
-        "awonwon/leadr": "dev-master"
+        "illuminate/routing": ">=5.4"
     },
     "autoload": {
         "psr-4": {
